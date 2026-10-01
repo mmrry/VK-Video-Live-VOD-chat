@@ -6,6 +6,7 @@
 // @match        https://live.vkvideo.ru/*
 // @run-at       document-idle
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (() => {
